@@ -1,0 +1,80 @@
+.card {
+    width: 300px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: left;
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+  }
+  .avatar {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .button{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 300px; 
+  }
+  .minusButton {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: none;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: 0.2s ease-in-out;
+    background-color: red;
+  }
+  .plusButton {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: none;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: 0.2s ease-in-out;
+    background-color: green;
+  }
+  .navbar {
+    width: 100%;
+    display: flex;
+    padding: 10px;
+    justify-content: flex-start;
+  }
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding: 0;
+    margin: 0;
+  }
+  .nav-link {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .nav-link:hover {
+    text-decoration: underline;
+  }
+  .table-avatar {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
