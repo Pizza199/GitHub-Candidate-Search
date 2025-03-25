@@ -1,5 +1,6 @@
 .card {
     width: 300px;
+    margin: auto;
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -15,9 +16,14 @@
   }
   .button{
     display: flex;
+    margin:auto;
+    margin-top: 10px;
     justify-content: space-between;
     width: 100%;
     max-width: 300px; 
+  }
+  .card_body {
+    padding: 5px;
   }
   .minusButton {
     width: 50px;
@@ -50,6 +56,11 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transition: 0.2s ease-in-out;
     background-color: green;
+  }
+  .message {
+    text-align: center;
+    margin-top: 20px;
+    color: red;
   }
   .navbar {
     width: 100%;
