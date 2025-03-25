@@ -10,6 +10,7 @@ The user is able to cycle through candidates available from the GitHub API. You 
 
 Here is a snapshot of the appplication along with a link to the deployed [site](https://github-candidate-search-8rr1.onrender.com).
 
+![Screenshot](SamplePage.png)
 
 ## Questions
 
