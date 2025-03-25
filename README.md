@@ -2,13 +2,14 @@
 
 ## Description
 
-This is a candidate search application using Typescript to search for candidates using the GitHub API. 
+This is a candidate search application using Typescript to search for candidates using the GitHub API.
 
 ## Usage
 
-The user is able to cycle through candidates available from the GitHub API. You are able to select, save, and delete candidates as needed. 
+The user is able to cycle through candidates available from the GitHub API. You are able to select, save, and delete candidates as needed.
 
-Here is a snapshot of the appplication along with a link to the deployed site.
+Here is a snapshot of the appplication along with a link to the deployed [site](https://github-candidate-search-8rr1.onrender.com).
+
 
 ## Questions
 
